@@ -1,0 +1,1 @@
+Command uname output when run without any option
